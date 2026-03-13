@@ -1,3 +1,4 @@
 # Network-clustering
 Clustering based on networks
+
 ClustNetworksMeanAndPrecisionExample.R is an example to demonstrate the proposed approach. It has two parts: 1) data simulation. The default example data has three clusters with two clusters each having a chain graph and the third cluster a random graph. One data set is simulated, but users can adjust the value of "nData" if more data are prefered. 2) cluster inference. Output includes: PeBIC, number of clusters, proportions of true positives of clustering, false positives of clustering, true positives of graph costruction, and false positives of graph construction. 
